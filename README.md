@@ -1,6 +1,7 @@
 # Pramod
 # Git Test
 # echo "# Pramod" >> README.md
+# Procedure to push files to github
 # git init
 # git add README.md
 # git commit -m "first commit"
