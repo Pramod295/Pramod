@@ -8,3 +8,6 @@
 # git branch -M master
 # git remote add origin git@github.com:Pramod295/Pramod.git
 # git push -u origin master
+
+# Adding without commit message
+# Using Amend
